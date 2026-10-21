@@ -1,6 +1,6 @@
 # TrendsConnector
 
-Ask your AI what is trending. One connector gives Claude, ChatGPT and Cursor live, normalized trend data from Google, YouTube, TikTok, Reddit, Amazon and 35+ sources.
+The trend data connector for Claude and ChatGPT. Add one Claude connector or ChatGPT connector, sign in, and ask what's trending on Google, YouTube, TikTok, Reddit, Amazon and 35+ sources.
 
 - **No setup:** add the connector, sign in, ask
 - **Every major source:** Google Trends, YouTube, TikTok, Amazon, Wikipedia, news and app stores
